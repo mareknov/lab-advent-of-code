@@ -20,3 +20,7 @@ path = "src/advent2021/day02/mod.rs"
 [[bin]]
 name = "2021-day03"
 path = "src/advent2021/day03/mod.rs"
+
+[[bin]]
+name = "2022-day01"
+path = "src/advent2022/day01/mod.rs"
