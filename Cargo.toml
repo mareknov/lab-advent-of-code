@@ -12,3 +12,7 @@ itertools = "0.10.5"
 [[bin]]
 name = "2021-day01"
 path = "src/advent2021/day01/mod.rs"
+
+[[bin]]
+name = "2021-day02"
+path = "src/advent2021/day02/mod.rs"
