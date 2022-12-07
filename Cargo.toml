@@ -8,3 +8,7 @@ edition = "2021"
 [dependencies]
 colour = "0.6.0"
 itertools = "0.10.5"
+
+[[bin]]
+name = "2021-day01"
+path = "src/advent2021/day01/mod.rs"
