@@ -8,6 +8,7 @@ edition = "2021"
 [dependencies]
 colour = "0.6.0"
 itertools = "0.10.5"
+regex = "1.7.0"
 
 [[bin]]
 name = "2021-day01"
@@ -36,3 +37,7 @@ path = "src/advent2022/day03/mod.rs"
 [[bin]]
 name = "2022-day04"
 path = "src/advent2022/day04/mod.rs"
+
+[[bin]]
+name = "2022-day05"
+path = "src/advent2022/day05/mod.rs"
